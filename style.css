@@ -5,7 +5,7 @@
 
 a {
     text-decoration: none;
-}
+}   
 
 kbd {
     border: 1px solid red;
@@ -24,7 +24,7 @@ kbd>button {
 }
 
 kbd:hover>button {
-    display: block; 
+    display: block;
 }
 
 main {
